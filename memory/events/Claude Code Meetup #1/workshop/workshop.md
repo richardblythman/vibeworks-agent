@@ -64,7 +64,7 @@ for what to build. Run it locally when you're done.
 
 ### What Claude Will Do
 
-- 📖 Read and understand the PRD.md requirements
+- 📖 Read and understand the [PRD.md](./PRD.md) requirements
 - 🎨 Apply the color scheme and styling
 - 🏗️ Build all the sections (Hero, Features, Team, Contact)
 - 📝 Create the contact form
