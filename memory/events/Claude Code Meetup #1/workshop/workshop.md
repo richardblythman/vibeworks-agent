@@ -1,3 +1,9 @@
+# Claude Code Workshop Guide
+
+A hands-on guide to building a website with Claude Code and AI assistance.
+
+---
+
 # MY WORKFLOW
 
 ⌨️ Claude Code CLI
@@ -17,12 +23,6 @@
 🚫 Supabase
 
 🚫 Cursor
-
----
-
-# Claude Code Workshop Guide
-
-A hands-on guide to building a website with Claude Code and AI assistance.
 
 ---
 
