@@ -1,16 +1,10 @@
 # MY WORKFLOW
 
-⌨️ CLAWD Code CLI
+⌨️ Claude Code CLI
 📝 MANUS AI - PRD Documents
-🗒️
-Obsidian
-Editing notes & creating diagrams
-🐙
-GitHub
-Version control
-☁️
-AWS CLI
-Infrastructure
+🗒️ Obsidian - Editing notes & creating diagrams
+🐙 GitHub - Version control
+☁️ AWS CLI - Infrastructure
 DON'T USE
 🚫
 Lovable
