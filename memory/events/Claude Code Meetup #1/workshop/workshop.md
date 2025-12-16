@@ -167,7 +167,7 @@ Turn your workshop experience into engaging posts across all platforms.
 **Setup:**
 
 1. **Download the Agent**
-   - Download SOCIAL-MEDIA-AGENT.md
+   - Download [SOCIAL-MEDIA-AGENT.md](./SOCIAL-MEDIA-AGENT.md)
 
 2. **Add to Your Project**
    - Save SOCIAL-MEDIA-AGENT.md in your Project folder
