@@ -18,7 +18,7 @@ Desktop/
 ### Setup Instructions
 
 1. **Create a Project folder** on your Desktop
-2. **Download PRD.md** and place it in the folder
+2. **Download [PRD.md](./PRD.md)** and place it in the folder
 3. **Get a website template**
    - Go to [v0.app/templates](https://v0.app/templates)
    - Download any template that interests you
