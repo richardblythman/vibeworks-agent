@@ -1,12 +1,7 @@
 # MY WORKFLOW
 
-Clawd⭐💫⭐🐦💫
-
-⌨️
-Claude Code CLI
-📝
-Manus AI
-PRD Documents
+⌨️ CLAWD Code CLI
+📝 MANUS AI - PRD Documents
 🗒️
 Obsidian
 Editing notes & creating diagrams
