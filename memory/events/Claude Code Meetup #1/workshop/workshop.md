@@ -1,3 +1,31 @@
+# MY WORKFLOW
+
+Clawd⭐💫⭐🐦💫
+
+⌨️
+Claude Code CLI
+📝
+Manus AI
+PRD Documents
+🗒️
+Obsidian
+Editing notes & creating diagrams
+🐙
+GitHub
+Version control
+☁️
+AWS CLI
+Infrastructure
+DON'T USE
+🚫
+Lovable
+🚫
+Supabase
+🚫
+Cursor
+
+---
+
 # Claude Code Workshop Guide
 
 A hands-on guide to building a website with Claude Code and AI assistance.
