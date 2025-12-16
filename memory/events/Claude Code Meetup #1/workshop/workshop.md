@@ -133,7 +133,7 @@ I want a pricing section like this: [paste copied prompt]
 ### Optimize for Search Engines
 
 1. **Download the SEO Skill**
-   - Download SEO-SKILL.md
+   - Download [SEO-SKILL.md](./SEO-SKILL.md)
 
 2. **Add to Your Project**
    - Save SEO-SKILL.md in your Project folder
