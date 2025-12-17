@@ -31,18 +31,18 @@ New members join a local community and need to find collaborators and understand
 ## Repository Structure
 
 ```
-community-agent/
+vibeworks-agent/
 ├── .claude/
 │   └── commands/          # Custom Claude Code commands for community workflows
 ├── memory/
-│   ├── directory/         # Community member profiles
+│   ├── directory/         # Community member profiles (to be created)
 │   └── events/            # Event-organized knowledge base
-│       ├── [event-name]/
-│       │   ├── transcripts/
-│       │   ├── notes/
-│       │   └── slides-and-tutorials/
 │       └── [event-name]/
-└── CLAUDE.md             # This file - Claude Code's operational guide
+│           ├── notes/           # Meeting notes, discussion notes, takeaways
+│           ├── workshop/        # Workshop materials, tutorials, resources
+│           └── transcripts/     # Transcripts (as needed)
+├── README.md              # Community overview and quick start
+└── CLAUDE.md              # This file - Claude Code's operational guide
 ```
 
 ### Key Directories
