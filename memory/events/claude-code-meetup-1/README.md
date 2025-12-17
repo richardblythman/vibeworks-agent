@@ -3,6 +3,8 @@
 
 An evening of AI-assisted development, hands-on workshops, and community demos featuring Claude Code and network infrastructure innovation.
 
+[View on Luma](https://luma.com/pt188jcp?tk=JkanSm)
+
 ---
 
 ## 📅 Event Schedule
