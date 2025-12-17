@@ -7,7 +7,7 @@ An intelligent agent serving the Vibeworks community—connecting members, shari
 ## 🗓️ Events & Sessions
 
 ### Claude Code Meetup #1
-**December 16, 2024** | [View Full Event Details](./memory/events/claude-code-meetup-1/)
+**December 16, 2024** | [View Full Event Details](./memory/events/claude-code-meetup-1/README.md)
 
 An evening of AI-assisted development, hands-on workshops, and community demos featuring Claude Code and network infrastructure innovation.
 
@@ -17,7 +17,7 @@ An evening of AI-assisted development, hands-on workshops, and community demos f
 - Community demos and networking
 - Workshop materials including PRD template, SEO guides, and social media agents
 
-[View Full Event Details →](./memory/events/claude-code-meetup-1/)
+[View Full Event Details →](./memory/events/claude-code-meetup-1/README.md)
 
 ---
 
