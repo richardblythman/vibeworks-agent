@@ -30,10 +30,10 @@ An intelligent agent serving the Vibeworks community—connecting members, shari
 - Keynote on building graph-based network tools for telecom infrastructure
 - **Key Takeaway**: Claude accelerated complex domain work from months to days
 - **Tech Stack**: React, MapGL, Kafka, Graph DB
-- [Read Full Notes](./memory/events/Claude%20Code%20Meetup%20%231/notes/stephen-dillon-notes.md)
+- [Read Full Notes](./memory/events/claude-code-meetup-1/notes/stephen-dillon-notes.md)
 
 **Miha Rothl Demo**
-- [View Notes](./memory/events/Claude%20Code%20Meetup%20%231/notes/miha-rothl-notes.md)
+- [View Notes](./memory/events/claude-code-meetup-1/notes/miha-rothl-notes.md)
 
 ---
 
