@@ -4,74 +4,32 @@ An intelligent agent serving the Vibeworks community—connecting members, shari
 
 ---
 
-## 📊 Community Dashboard
+## 🗓️ Events & Sessions
 
-### 🗓️ Events & Sessions
+### Claude Code Meetup #1
+**December 16, 2024** | [View Full Event Details](./memory/events/claude-code-meetup-1/README.md)
 
-#### Claude Code Meetup #1
-**December 16, 2024** | [View Full Schedule](./memory/events/claude-code-meetup-1/schedule.md)
+An evening of AI-assisted development, hands-on workshops, and community demos featuring Claude Code and network infrastructure innovation.
 
-| Time | Session | Duration | Materials |
-|------|---------|----------|-----------|
-| 6:00 PM | Introduction | 15 min | - |
-| 6:15 PM | Anthropic Q&A | 30 min | - |
-| 6:50 PM | Workshop | 45 min | [Workshop Guide](./memory/events/claude-code-meetup-1/workshop/workshop.md) |
-| 7:45 PM | Stephen Dillon Demo | 15 min | [Notes](./memory/events/claude-code-meetup-1/notes/stephen-dillon-notes.md) |
-| 8:00 PM | Miha Rothl Demo | 15 min | [Notes](./memory/events/claude-code-meetup-1/notes/miha-rothl-notes.md) |
-| 8:15 PM | Pizza & Networking | Open | - |
+**Key Highlights:**
+- [Stephen Dillon demo](./memory/events/claude-code-meetup-1/notes/stephen-dillon-notes.md) on fiber network optimization using Claude
+- [Miha Rothl demo](./memory/events/claude-code-meetup-1/notes/miha-rothl-notes.md) on specification-driven development
+- [Hands-on Claude Code workshop](./memory/events/claude-code-meetup-1/workshop/workshop.md) with practical guides
+- Workshop materials including PRD template, SEO guides, and social media agents
 
----
-
-### 📚 Knowledge Base Highlights
-
-#### Recent Talks & Presentations
-
-**Stephen Dillon - Fiber Network Optimization**
-- Keynote on building graph-based network tools for telecom infrastructure
-- **Key Takeaway**: Claude accelerated complex domain work from months to days
-- **Tech Stack**: React, MapGL, Kafka, Graph DB
-- [Read Full Notes](./memory/events/claude-code-meetup-1/notes/stephen-dillon-notes.md)
-
-**Miha Rothl Demo**
-- [View Notes](./memory/events/claude-code-meetup-1/notes/miha-rothl-notes.md)
+[View Full Event Details →](./memory/events/claude-code-meetup-1/README.md)
 
 ---
 
-### 🛠️ Workshop Materials
+## 👥 Community Directory
 
-#### Claude Code Workshop Guide
-A hands-on guide for building websites with Claude Code in 10 steps:
-1. Folder Structure Setup
-2. Opening Claude Code
-3. Building the Website
-4. Viewing Your Site
-5. Customizing with Components
-6. Adding SEO Skills
-7. Social Media Integration
-8. GitHub Sync
-9. AWS Deployment
-10. Creating Visual Maps
-
-[Full Workshop Guide](./memory/events/claude-code-meetup-1/workshop/workshop.md)
-
-#### Workshop Materials
-- [PRD Template](./memory/events/claude-code-meetup-1/workshop/PRD.md) - Product requirements document
-- [SEO Skill Guide](./memory/events/claude-code-meetup-1/workshop/SEO-SKILL.md) - Optimize your website for search
-- [Social Media Agent](./memory/events/claude-code-meetup-1/workshop/SOCIAL-MEDIA-AGENT.md) - Create cross-platform posts
-
----
-
-### 👥 Community Members
-
-The Vibeworks community brings together builders, domain experts, and innovators.
-
-**Current Focus Areas:**
+The Vibeworks community brings together builders, domain experts, and innovators working on:
 - 🌐 Network Infrastructure & Optimization
 - 🤖 AI-Assisted Development with Claude Code
 - 🌍 Telecom & Broadband Solutions
 - 🚀 Agent Development & Subagents
 
-[View Member Directory](./memory/directory/) | [Add Your Profile](#)
+[View Member Profiles](./memory/directory/) | [Add Your Profile](./memory/directory/)
 
 ---
 
