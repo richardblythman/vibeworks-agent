@@ -52,12 +52,12 @@ A hands-on guide for building websites with Claude Code in 10 steps:
 9. AWS Deployment
 10. Creating Visual Maps
 
-[Full Workshop Guide](/memory/events/Claude%20Code%20Meetup%20%231/workshop/workshop.md)
+[Full Workshop Guide](./memory/events/Claude%20Code%20Meetup%20%231/workshop/workshop.md)
 
 #### Workshop Materials
-- [PRD Template](/memory/events/Claude%20Code%20Meetup%20%231/workshop/PRD.md) - Product requirements document
-- [SEO Skill Guide](/memory/events/Claude%20Code%20Meetup%20%231/workshop/SEO-SKILL.md) - Optimize your website for search
-- [Social Media Agent](/memory/events/Claude%20Code%20Meetup%20%231/workshop/SOCIAL-MEDIA-AGENT.md) - Create cross-platform posts
+- [PRD Template](./memory/events/Claude%20Code%20Meetup%20%231/workshop/PRD.md) - Product requirements document
+- [SEO Skill Guide](./memory/events/Claude%20Code%20Meetup%20%231/workshop/SEO-SKILL.md) - Optimize your website for search
+- [Social Media Agent](./memory/events/Claude%20Code%20Meetup%20%231/workshop/SOCIAL-MEDIA-AGENT.md) - Create cross-platform posts
 
 ---
 
