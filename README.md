@@ -9,15 +9,15 @@ An intelligent agent serving the Vibeworks community—connecting members, shari
 ### 🗓️ Events & Sessions
 
 #### Claude Code Meetup #1
-**December 16, 2024** | [View Full Schedule](/memory/events/Claude%20Code%20Meetup%20%231/schedule.md)
+**December 16, 2024** | [View Full Schedule](./memory/events/Claude%20Code%20Meetup%20%231/schedule.md)
 
 | Time | Session | Duration | Materials |
 |------|---------|----------|-----------|
 | 6:00 PM | Introduction | 15 min | - |
 | 6:15 PM | Anthropic Q&A | 30 min | - |
-| 6:50 PM | Workshop | 45 min | [Workshop Guide](/memory/events/Claude%20Code%20Meetup%20%231/workshop/workshop.md) |
-| 7:45 PM | Stephen Dillon Demo | 15 min | [Notes](/memory/events/Claude%20Code%20Meetup%20%231/notes/stephen-dillon-notes.md) |
-| 8:00 PM | Miha Rothl Demo | 15 min | [Notes](/memory/events/Claude%20Code%20Meetup%20%231/notes/miha-rothl-notes.md) |
+| 6:50 PM | Workshop | 45 min | [Workshop Guide](./memory/events/Claude%20Code%20Meetup%20%231/workshop/workshop.md) |
+| 7:45 PM | Stephen Dillon Demo | 15 min | [Notes](./memory/events/Claude%20Code%20Meetup%20%231/notes/stephen-dillon-notes.md) |
+| 8:00 PM | Miha Rothl Demo | 15 min | [Notes](./memory/events/Claude%20Code%20Meetup%20%231/notes/miha-rothl-notes.md) |
 | 8:15 PM | Pizza & Networking | Open | - |
 
 ---
