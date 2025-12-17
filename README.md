@@ -46,15 +46,16 @@ This community agent helps Vibeworks members:
 ```
 vibeworks-agent/
 ├── memory/
-│   ├── directory/          # Community member profiles
+│   ├── directory/          # Community member profiles (to be created)
 │   └── events/             # Event-organized knowledge base
-│       └── Claude Code Meetup #1/
+│       └── claude-code-meetup-1/
 │           ├── schedule.md
-│           ├── notes/
-│           └── workshop/
-├── .claude/               # Claude Code configuration
-├── CLAUDE.md              # Agent operations guide
-└── README.md              # This file
+│           ├── README.md
+│           ├── notes/      # Meeting notes and discussions
+│           └── workshop/   # Workshop materials and tutorials
+├── .claude/                # Claude Code configuration
+├── CLAUDE.md               # Agent operations guide
+└── README.md               # This file
 ```
 
 ## 🤝 How to Use
