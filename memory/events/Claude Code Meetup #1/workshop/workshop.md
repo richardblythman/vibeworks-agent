@@ -4,6 +4,28 @@ A hands-on guide to building a website with Claude Code and AI assistance.
 
 ---
 
+# MY WORKFLOW
+
+⌨️ Claude Code CLI
+
+📝 MANUS AI - PRD Documents
+
+🗒️ Obsidian - Editing notes & creating diagrams
+
+🐙 GitHub - Version control
+
+☁️ AWS CLI - Infrastructure
+
+## DON'T USE
+
+🚫 Lovable
+
+🚫 Supabase
+
+🚫 Cursor
+
+---
+
 ## 1. Folder Structure
 
 Set up your project workspace:
