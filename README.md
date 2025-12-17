@@ -2,7 +2,7 @@
 
 An intelligent agent serving the Vibeworks community—connecting members, sharing knowledge, and building together.
 
-**[📹 Watch the Demo](https://youtu.be/G0HekYn54jQ)**
+**[📹 Watch a tutorial for how to use this agent](https://youtu.be/G0HekYn54jQ)**
 
 ---
 
