@@ -34,30 +34,11 @@ A keynote on building graph-based network tools for telecom infrastructure, show
 
 ### Miha Rothl - Specification-Driven Development with Claude
 
-A compelling case study in building production-grade systems with Claude as an AI pair programmer. Miha showcased how specification-driven development (SDD) and proper constraints enable solo builders to match the output of multi-person teams.
+A case study in building production-grade systems with Claude as an AI pair programmer using specification-driven development (SDD).
 
-**Key Achievements:**
-- Built a legal tech agentic RAG system for Irish law in 2 months
-- Generated ~80,000 lines of production-quality code with comprehensive test coverage
-- Matched a 6-person team's output from the prior year (in half the time and with better code quality)
-- Demonstrated the economic shift: one person + Claude can now build what once required significant team and budget
+**Key Takeaway**: One developer built a legal tech RAG system matching a 6-person team's output—80,000 lines of production code in 2 months with comprehensive testing.
 
-**Project Highlights - Legal Direct:**
-- Full-stack legal research platform with crawler, parser, embedder, vector database, APIs, and TypeScript frontend
-- 100% test coverage on libraries, 80%+ integration test coverage on APIs
-- Deployed on Kubernetes with GPU infrastructure
-
-**Core Philosophy:**
-Claude operates at a senior software engineer level, not junior. Success requires:
-- Clear specifications (RFC documents) as the interface between human and AI
-- Strong architectural constraints and patterns
-- Comprehensive testing and quality gates
-- Domain expertise from the human developer
-
-**Key Insight - The Economic Shift:**
-- **2024**: Need budget, team, meetings, roadmap
-- **2025**: One person with clear vision + Claude can design, implement, enforce quality, and deploy
-- "Solo builders can punch with the force of a small IT department"
+**Tech Stack**: Python, TypeScript, Kubernetes, Vector Database
 
 [Read Full Notes](./notes/miha-rothl-notes.md)
 
