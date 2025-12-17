@@ -29,7 +29,7 @@ The Vibeworks community brings together builders, domain experts, and innovators
 - 🌍 Telecom & Broadband Solutions
 - 🚀 Agent Development & Subagents
 
-[View Member Profiles](./memory/directory/) | [Add Your Profile](./memory/directory/)
+[View Member Profiles](./memory/directory/README.md) | [Add Your Profile](./memory/directory/README.md)
 
 ---
 
