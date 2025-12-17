@@ -75,4 +75,15 @@ Community members can:
 
 ---
 
+## 🙏 Thanks to Our Sponsors
+
+We're grateful to our sponsors for supporting the Vibeworks community:
+
+- **Darius Cubed**
+- **vibeworks**
+- **Tensorix**
+- **echofold**
+
+---
+
 **Built with ❤️ for the Vibeworks community**
