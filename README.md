@@ -71,7 +71,7 @@ The Vibeworks community brings together builders, domain experts, and innovators
 - 🌍 Telecom & Broadband Solutions
 - 🚀 Agent Development & Subagents
 
-[View Member Directory](memory/directory/) | [Add Your Profile](#)
+[View Member Directory](/memory/directory/) | [Add Your Profile](#)
 
 ---
 
