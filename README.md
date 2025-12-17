@@ -17,7 +17,7 @@ An evening of AI-assisted development, hands-on workshops, and community demos f
 - Community demos and networking
 - Workshop materials including PRD template, SEO guides, and social media agents
 
-[Explore Event →](./memory/events/claude-code-meetup-1/)
+[View Full Event Details →](./memory/events/claude-code-meetup-1/)
 
 ---
 
