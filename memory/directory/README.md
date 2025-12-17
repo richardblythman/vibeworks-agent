@@ -14,7 +14,7 @@ Welcome to the Vibeworks community directory! This is where you can discover mem
 
 ## How to Join
 
-Would you like to add yourself to the community directory? Simply share:
+Want to join the community directory? Just ask Claude to add you! Share:
 - Your name
 - Company/Title
 - A brief bio
