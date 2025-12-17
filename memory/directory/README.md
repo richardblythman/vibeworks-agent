@@ -6,26 +6,9 @@ Welcome to the Vibeworks community directory! This is where you can discover mem
 
 ## Members
 
-### 👤 Richard Blythman
-**Founder/CEO at Naptha AI** | 🚀 Preseed Stage
-
-> Founder and CEO of Naptha AI, a preseed stage company that has raised $6M in funding. Over 10 years of experience as a machine learning and AI engineer. Naptha is building agents for developer onboarding.
-
-**Expertise:**
-- Multi-agent systems & agent protocols
-- Generative AI & Edge AI
-- 3D computer vision
-- Machine learning & AI engineering
-- Patents in AI/ML
-
-**Interests:**
-`Agents for Knowledge Work` • `Local AI` • `Multi-agent Systems` • `Agent Protocols`
-
-**Connect:**
-- 🔗 [LinkedIn](https://linkedin.com/in/richardblythman)
-- 💻 [GitHub](https://github.com/richardblythman)
-- 🐦 [Twitter/X](https://x.com/richardblythman)
-- ✉️ [Email](mailto:richard@naptha.ai)
+| Name | Title | Company | Skills & Interests | Contact |
+|------|-------|---------|-------------------|---------|
+| **Richard Blythman** | Founder/CEO | Naptha AI | AI/ML, Multi-agent systems, Agent protocols, Local AI | [LinkedIn](https://linkedin.com/in/richardblythman) • [GitHub](https://github.com/richardblythman) • [Twitter](https://x.com/richardblythman) • [Email](mailto:richard@naptha.ai) |
 
 ---
 
