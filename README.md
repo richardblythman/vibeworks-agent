@@ -2,6 +2,8 @@
 
 An intelligent agent serving the Vibeworks community—connecting members, sharing knowledge, and building together.
 
+**[📹 Watch a tutorial for how to use this agent](https://youtu.be/G0HekYn54jQ)**
+
 ---
 
 ## 🗓️ Events & Sessions
@@ -29,7 +31,7 @@ The Vibeworks community brings together builders, domain experts, and innovators
 - 🌍 Telecom & Broadband Solutions
 - 🚀 Agent Development & Subagents
 
-[View Member Profiles](./memory/directory/) | [Add Your Profile](./memory/directory/)
+[View Member Profiles](./memory/directory/README.md) | [Add Your Profile](./memory/directory/README.md)
 
 ---
 
