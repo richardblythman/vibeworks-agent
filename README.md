@@ -12,9 +12,9 @@ An intelligent agent serving the Vibeworks community—connecting members, shari
 An evening of AI-assisted development, hands-on workshops, and community demos featuring Claude Code and network infrastructure innovation.
 
 **Key Highlights:**
-- Stephen Dillon demo on fiber network optimization using Claude
-- Hands-on Claude Code workshop with practical guides
-- Community demos and networking
+- [Stephen Dillon demo](./memory/events/claude-code-meetup-1/notes/stephen-dillon-notes.md) on fiber network optimization using Claude
+- [Miha Rothl demo](./memory/events/claude-code-meetup-1/notes/miha-rothl-notes.md) on specification-driven development
+- [Hands-on Claude Code workshop](./memory/events/claude-code-meetup-1/workshop/workshop.md) with practical guides
 - Workshop materials including PRD template, SEO guides, and social media agents
 
 [View Full Event Details →](./memory/events/claude-code-meetup-1/README.md)
